@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Week3</string>
+    <string name="baby_picture">baby picture</string>
+    <string name="Name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="enter_name">Enter Name</string>
 </resources>
